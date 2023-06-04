@@ -178,7 +178,9 @@ for xd in range(3005):
 
 for sat in range(1000):
 
-	a='NokiaX'	b=random.randrange(1,9)
+	a='NokiaX'	
+	
+	b=random.randrange(1,9)
 
 	c='-0'
 
